@@ -4,7 +4,7 @@ This is the backend part of Shop Bridge Inventory. In order to run this project 
 
 - Spring Boot
 - MySQL
-- Need database : shop_bridge
+- database : shop_bridge
 - username: root
 - password: root
 - items.sql file present in database folder
