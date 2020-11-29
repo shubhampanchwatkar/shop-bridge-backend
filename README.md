@@ -1,4 +1,4 @@
-# Getting Started with Shob Bridge Inventory
+# Getting Started with Shop Bridge Inventory
 
 This is the backend part of Shop Bridge Inventory. In order to run this project we need:
 
